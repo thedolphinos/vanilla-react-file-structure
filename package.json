@@ -1,0 +1,31 @@
+{
+  "name": "@thedolphinos/vanilla-react-file-structure",
+  "version": "0.1.0",
+  "description": "A file structure for React.",
+  "keywords": [
+    "dolphinos",
+    "react",
+    "file structure",
+    "folder structure"
+  ],
+  "homepage": "https://github.com/thedolphinos/vanilla-react-file-structure",
+  "bugs": {
+    "url": "https://github.com/thedolphinos/vanilla-react-file-structure/issues",
+    "email": "project@dolphinos.com"
+  },
+  "license": "MIT",
+  "contributors": [
+    "Onur Çipe <onur@dolphinos.com>",
+    "Selma Çipe <selma@dolphinos.com>"
+  ],
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thedolphinos/vanilla-react-file-structure.git"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
