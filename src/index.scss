@@ -1,0 +1,29 @@
+/*
+ * This file is the root styling file.
+ * Keep in mind all common styling files should be placed under `/styles` folder.
+ */
+@import "styles/variables";
+
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+}
+
+html {
+  box-sizing: border-box;
+  font-size: $font-size;
+}
+
+body {
+  font-family: inherit;
+  font-size: inherit;
+
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+#root {
+  width: 100%;
+  height: 100%;
+}
